@@ -9,7 +9,7 @@
   I’m a web developer👩🏻‍💻 and technology enthusiast with a deep-seated passion for crafting intricate user interfaces that are not only visually appealing🤩 but also functionally sophisticated.I take pride in my ability to transform complex design challenges into seamless and intuitive web experiences.
 </p>
 
-<img align="right" alt="Coding" width="400" src="./utils/dev.gif">
+<img align="right" alt="Coding" width="350px" src="./utils/dev.gif">
 <br><br>
 
 - 🌱 I’m currently learning **React and ExpressJs**
